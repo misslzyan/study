@@ -1,4 +1,4 @@
-#过滤数据库文件、sln解决方案文件、配置文件  
+﻿#过滤数据库文件、sln解决方案文件、配置文件  
 *.project
 *.settings
 *.project
@@ -9,7 +9,6 @@
 *.idea
 *.iml
 *.pdf
-*.txt
 *.html
 *.tmp
 ~$*
